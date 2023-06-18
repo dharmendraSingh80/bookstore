@@ -15,7 +15,7 @@ The Bookstore Application is a ReactJS-based web application that allows users t
 - ReactJS: JavaScript library for building user interfaces
 - React Router: Library for handling routing in a React application
 - Redux: State management library for managing application state
-- CSS or CSS frameworks: Styling and design of the application
+- CSS: Styling and design of the application
 
 ## Installation
 
