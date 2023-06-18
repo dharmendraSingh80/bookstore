@@ -1,0 +1,30 @@
+/* Home.css */
+
+.home {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.home h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+.home p {
+    font-size: 16px;
+    color: #777;
+    margin-bottom: 20px;
+}
+
+.home .browse-link {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home .browse-link:hover {
+    background-color: #0056b3;
+}
